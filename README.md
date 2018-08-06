@@ -14,7 +14,7 @@ gddsdj
 jhddhf
 sfjfhf
 ```
-|name|age|
----|---
-|heaven|21|
-|ritian|22|
+|name|age|number|
+|:---|:---:|---:|
+|heavenheaven|21|65|
+|ritian|227666447|98|
